@@ -1,0 +1,57 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  h1 {
+    color: #5A9;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input[type="number"] {
+    padding: 8px;
+    width: 150px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #5A9;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #5A9;
+    color: white;
+  }
+  
+  #downloadPdf {
+    padding: 10px 20px;
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
